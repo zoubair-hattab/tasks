@@ -7,9 +7,8 @@ module.exports = {
       "CLOUD_UPDATE_PRESET": "cloudfundding",
       "CLOUD_NAME": "dulgobkhd",
       "CLOUD_API"     :  "https://api.cloudinary.com/v1_1/dulgobkhd/image/upload",
-      "DOMAIN_NAME"   :"sandbox348426b4a003490ab1af4e9c76d23e8e.mailgun.org",
-      "MAILGUN_APIKEY":"4d5df4dcdd7de17204414ca0023a5c6a-787e6567-12f69f93
-"
+      "DOMAIN_NAME"   :"sandboxd9ad70d8555d476298230385705070bb.mailgun.org",
+      "MAILGUN_APIKEY":"e1f16247a978e6c8595c21c0542657c3-787e6567-c4d4672c"
 
   }
   
