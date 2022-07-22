@@ -1,0 +1,17 @@
+/* Styling the input field */
+.formControl {
+  border: none;
+  border-radius: 5px;
+  background-color: #e9e9e9;
+}
+.formControl:focus {
+  box-shadow: none;
+  background-color: #e9e9e9;
+}
+/*  */
+.button {
+  border: none;
+  height: 38px;
+  border-radius: 5px;
+  margin-top: 5px;
+}

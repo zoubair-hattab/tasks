@@ -1,0 +1,12 @@
+/* Styling the ongoing sticky element in middlesection */
+.fixed {
+  position: fixed;
+  top: 80px;
+  left: 10px;
+  z-index: 9999;
+}
+.abslute {
+  position: absolute;
+  z-index: 9999;
+  left: 10px;
+}

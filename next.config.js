@@ -1,0 +1,15 @@
+module.exports = {
+  env: {
+      "BASE_URL": "http://localhost:3000/",
+       "MONGODB_URL": "mongodb+srv://zoubair:21923313@cluster0.vj9jh.mongodb.net/crowdfunding?retryWrites=true&w=majority",
+      "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET",
+      "REFRESH_TOKEN_SECRET": "YOUR_REFRESH_TOKEN_SECRET",
+      "CLOUD_UPDATE_PRESET": "cloudfundding",
+      "CLOUD_NAME": "dulgobkhd",
+      "CLOUD_API"     :  "https://api.cloudinary.com/v1_1/dulgobkhd/image/upload",
+      "DOMAIN_NAME"   :"sandbox48b606abd8854f0da277243f019d9e83.mailgun.org",
+      "MAILGUN_APIKEY":"898780e14ba100ea41b8a5530712e10c-787e6567-6280f37e"
+
+  }
+  
+}
