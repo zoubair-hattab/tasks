@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-      "BASE_URL": "http://localhost:3000/",
+      "BASE_URL": "https://tasks-seven.vercel.app/",
        "MONGODB_URL": "mongodb+srv://zoubair:21923313@cluster0.vj9jh.mongodb.net/crowdfunding?retryWrites=true&w=majority",
       "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET",
       "REFRESH_TOKEN_SECRET": "YOUR_REFRESH_TOKEN_SECRET",
